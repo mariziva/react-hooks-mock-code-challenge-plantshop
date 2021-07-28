@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Okay",
+      "image": "https://en.wikipedia.org/wiki/Image#/media/File:Image_created_with_a_mobile_phone.png",
+      "price": "2.50",
+      "id": 8
     }
   ]
 }
